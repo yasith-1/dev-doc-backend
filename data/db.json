@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "id": "62a8a5fe-4103-453b-9902-38f40d8dd189",
+      "name": "WD Yashith Prabhashwara",
+      "email": "yasithprabaswara1@gmail.com",
+      "password": "$2a$10$HiMw6lwF48bHvS2RokZIYe2X./TRkcMveg7RbBRHMmgJp//aX52f2"
+    }
+  ],
+  "projects": [
+    {
+      "id": "8392854f-671a-430b-a351-a30599705134",
+      "name": "Nexserve",
+      "clientName": "Nexova",
+      "deadline": "2026-02-28",
+      "tags": [
+        "Pos system",
+        "react",
+        "redux",
+        "springboot"
+      ],
+      "requirements": "Provide a brief executive summary (overview of your business requirements) here. \nYour executive summary should be a “snapshot” of the purpose of your business requirements, including a brief description of any analysis, findings, project description, scope, business drivers, proposed process, current process, and functional requirements.\n\nSAMPLE TEXT: As a socially and environmentally conscious company trying to make a positive difference in the world, we want to roll out our product to more locations than any other EV charging provider. In order to reach our primary goal of becoming the world's largest EV charging provider and thus reducing the environmental impact of fossil-fuel cars through our services, we need to triple the number of EV charging stations that we currently have in the U.S. and Canada. \n• Research has shown that… \n• This research data indicates that… \n• The scope of the proposed project is… \n• The main business drivers behind this effort are…\n• While the current process only allows us to add charging stations occasionally, the proposed process allows us to triple our EV charging presence… \n• The functional requirements in this document indicate that… \n• Etc.",
+      "documents": [
+        {
+          "id": "ad784795-9359-4dc5-8763-1dfcab9c4a24",
+          "name": "Official_Resume_Yashith.pdf",
+          "type": "srs",
+          "size": 200993,
+          "uploadedAt": "2026-02-21T15:24:12.956Z"
+        },
+        {
+          "id": "3dc045cc-4999-471b-bec0-9d82519cf207",
+          "name": "Linux.pdf",
+          "type": "srs",
+          "size": 611841,
+          "uploadedAt": "2026-02-21T15:24:17.150Z"
+        },
+        {
+          "id": "638492a1-4b51-4f83-889d-8ba9f0f4c5e3",
+          "name": "Official_Resume_Yashith.pdf",
+          "type": "erd",
+          "size": 200993,
+          "uploadedAt": "2026-02-21T15:24:21.648Z"
+        },
+        {
+          "id": "19196f43-2103-425f-8ce6-add04384e577",
+          "name": "current.png",
+          "type": "usecase",
+          "size": 1103788,
+          "uploadedAt": "2026-02-21T15:24:24.523Z"
+        },
+        {
+          "id": "9de4b699-123f-4257-97c2-4765d53a6d63",
+          "name": "kub.png",
+          "type": "uiux",
+          "size": 244030,
+          "uploadedAt": "2026-02-21T15:24:30.054Z"
+        },
+        {
+          "id": "7f7c3770-a84a-4499-af0a-8adde145a3ad",
+          "name": "Official_Resume_Yashith.pdf",
+          "type": "other",
+          "size": 200993,
+          "uploadedAt": "2026-02-21T15:24:33.350Z"
+        }
+      ],
+      "resourceLinks": [
+        {
+          "id": "f06a3873-5f10-40af-9f58-788bef38cdf8",
+          "url": "https://www.figma.com/design/tWjxiEJLfYrVZMV5FtoJlg/Artificial-Intelligence-%2B?node-id=2-6&t=qYC7rdQ3p45qUxcV-1",
+          "addedAt": "2026-02-21T14:30:54.767Z"
+        },
+        {
+          "id": "ef4ff851-3022-4319-a028-1ccca7fbd3ff",
+          "url": "https://hartford-ask-colours-elected.trycloudflare.com/",
+          "addedAt": "2026-02-21T15:24:45.745Z"
+        }
+      ],
+      "todos": [],
+      "createdAt": "2026-02-21T14:00:03.843Z",
+      "updatedAt": "2026-02-25T09:23:31.913Z",
+      "userId": "62a8a5fe-4103-453b-9902-38f40d8dd189"
+    },
+    {
+      "id": "75af24eb-283d-4bda-9b6e-ccb3ee1a3041",
+      "name": "Yashith Prabhashwara",
+      "clientName": "aa",
+      "deadline": "2026-02-12",
+      "tags": [],
+      "requirements": "",
+      "documents": [],
+      "resourceLinks": [],
+      "todos": [],
+      "createdAt": "2026-02-25T09:52:45.170Z",
+      "updatedAt": "2026-02-25T09:52:45.170Z",
+      "userId": "62a8a5fe-4103-453b-9902-38f40d8dd189"
+    }
+  ],
+  "resourceLinks": [],
+  "todos": []
+}
