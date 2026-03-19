@@ -14,7 +14,10 @@ const errorHandler = require('./middleware/errorMiddleware');
 const app = express();
 const PORT = process.env.PORT || 5000;
 // Middleware
-app.use(cors());
+app.use(cors({
+    origin: process.env.CORS_ORIGIN || 'http://localhost:5173', // or specify your frontend's exact URL
+    credentials: true,
+}));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(logger);
